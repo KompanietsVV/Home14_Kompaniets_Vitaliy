@@ -1,0 +1,77 @@
+.site-header {
+  padding: 20px;
+  font-family: "Roboto Slab", serif;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+li {
+  list-style: none;
+}
+
+.psd {
+  font-size: 16px;
+  color: #dd4b2b;
+  letter-spacing: 0.96px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  vertical-align: middle;
+}
+
+img:hover {
+  opacity: 0.9;
+}
+
+a {
+  text-decoration: none;
+}
+
+.img-logo {
+  width: auto;
+  display: block;
+  height: auto;
+  vertical-align: middle;
+  line-height: 40px;
+}
+
+.clearfix:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+.container {
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
+
+.nav-menu {
+  list-style: none;
+  display: inline-block;
+  margin-right: 10px;
+}
+
+li.nav-menu a {
+  color: #31353e;
+  padding: 5px 10px;
+  transition: all 0.2s ease;
+}
+
+li.nav-menu a:hover {
+  border-radius: 25px;
+  background-color: #dd4b2b;
+  color: #edeff1;
+  opacity: 0.8;
+}

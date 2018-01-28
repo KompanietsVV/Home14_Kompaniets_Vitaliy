@@ -1,0 +1,55 @@
+.bg-over-footer {
+  background-color: #d75d0e;
+  padding: 90px 0 70px 0;
+}
+.list-over-footer {
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 36px;
+  text-align: center;
+}
+
+.list-over-footer a {
+  color: #ffffff;
+}
+
+.list-over-footer a:hover{
+  color: #612316;
+}
+
+.position-list-over-footer {
+  width: 33.33%;
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+
+.footer-info {
+  padding: 70px;
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  text-align: center;
+  line-height: 24px;
+}
+
+.footer-paragraph {
+  margin: 13px 0;
+}
+
+.footer-newsletter-section {
+  background-image: url("../img/hamburgers.png");
+  background-repeat: no-repeat;
+  width: 100%;
+  min-height: 382px;
+  height: 100%;
+}
+
+.symu {
+  color: #ffffff;
+  font-weight: 700;
+}
+
+.symu:hover {
+  color: #612316;
+}
